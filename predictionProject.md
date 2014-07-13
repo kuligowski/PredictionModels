@@ -1,9 +1,9 @@
 ---
-atitle: "predictionProject"
+atitle: "Prediction project"
 output: html_document
 ---
 
-How did they exercise?
+#How did they exercise?#
 
 6 participant, each performing barbell lifts in a different way. Just one exercise (classe) was the correct one.
 
